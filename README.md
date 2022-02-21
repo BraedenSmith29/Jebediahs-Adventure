@@ -1,6 +1,8 @@
 # Jebediah's Adventure
 Take control of Jebediah in this fast-paced platformer-shooter. Fight off an onslaught of aliens in an attempt to survive as long as possible! I made this game the summer before High School as my final project in a Unity course. It's kind of ridiculous, but it was a fun project to work on.
 
+<img src="https://user-images.githubusercontent.com/90221641/155039294-bb3dced0-f0ab-4fa0-aab9-ed1eab397a5c.png" alt="Jabediah's Adventure Screenshot" width= "40%"/>
+
 ## Installation
 To install the game, simply click on the latest release and download the .zip file corresponding to your operating system. Once you've done that, just extract and run!
 
